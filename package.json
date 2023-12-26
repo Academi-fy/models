@@ -13,5 +13,8 @@
   },
   "repository": {
     "url": "git://github.com/academi-fy/models.git"
+  },
+  "publishConfig": {
+    "@academi-fy:registry": "https://npm.pkg.github.com"
   }
 }
